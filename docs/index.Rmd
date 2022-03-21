@@ -1,6 +1,6 @@
 ---
-title: "Praticando sociologia Digital através dos métodos digitais"
-subtitle: "FGV-DAPP"
+title: "Lições e desafios da pesquisa com métodos digitais"
+subtitle: "PPGHCS/COC/Fiocruz"
 author: "Leonardo F. Nascimento"
 institute: "ICTI/PPGCS/LABHDUFBA"
 date: "`r Sys.Date()`" 
@@ -62,11 +62,58 @@ class: inverse, center, middle
 
 ---
 class: inverse, center, middle
-## Os processos socio-tecnológicos de digitalização e dataficação constituem um fenômeno fundamental das sociedades contemporâneas; <br>
-<br>
 
---
-## Isso exige do cientista social novos raciocínios: teóricos, metodológicos e epistemológico;  
+# Aspectos gerais das sociedades digitais contemporâneas...
+
+---
+class: middle, center
+
+## "Digitalização do eu na vida cotidiana" 
+
+```{r, out.width="80%"}
+knitr::include_graphics("img/ds.jpeg")
+```
+---
+class: middle, center
+
+## Algoritmização de processos sociais
+
+```{r, out.width="60%"}
+knitr::include_graphics("img/matrix-digital-self.png")
+```
+
+---
+class: middle, center
+
+## Traços digitais (digital data trace)
+
+```{r, out.width="75%"}
+knitr::include_graphics("img/socioloy.png")
+```
+
+---
+class: middle, center
+
+## Dataficação
+
+```{r, out.width="75%"}
+knitr::include_graphics("img/datafication4.jpg")
+```
+
+---
+class: middle, center
+
+## Cultura de vigilância
+
+
+```{r, out.width="65%"}
+knitr::include_graphics("img/surv.jpg")
+```
+
+---
+class: inverse, center, middle
+
+# O que eu devo fazer?
 
 ---
 class: middle, center
@@ -91,27 +138,16 @@ class: center, middle
 ---
 class: center, middle
 
-## "1950 e 1990, os sociólogos podiam reivindicar uma série de ferramentas metodológicas distintas que lhes permitiam [...] o acesso às relações sociais, mas no início do século XXI os dados sociais são hoje tão rotineiramente coletados e disseminados de tantas maneiras, que o papel dos sociólogos na geração de dados agora é incerto"
-<br>
-### SAVAGE, M.; BURROWS, R. The Coming Crisis of Empirical Sociology. Sociology, v. 41, n. 5, p. 885–899, 1 out. 2007, + de 1290 citações!!!)
-
----
-class: center, middle
-
 --
 ## Sociologia com preocupações esotéricas, internalistas, auto-referidas;
 <br>
 
 --
-## Proliferação de pesquisa social para além da sociologia (ex: sociologia comercial); 
+## "sociólogos profissionais.. não são as únicas pessoas que investigam, analisam, teorizam e dão voz... aos fenômenos de um ponto de vista 'social'"
 <br>
 
 --
-## "sociólogos profissionais.. não são as únicas pessoas que investigam, analisam, teorizam e dão voz... aos fenêmenos de um ponto de vista 'social'"
-<br>
-
---
-## "outros atores às vezes produzem melhor sociologia do que... sociólogos"
+## "outros atores às vezes produzem melhor ciência social do que... os cientistas sociais"
 
 ---
 class: inverse, center, middle
@@ -175,7 +211,7 @@ knitr::include_graphics("https://media.giphy.com/media/xUA7aXTtpFObOX7Iys/giphy.
 ---
 class: inverse, center, middle
 
-# Qual o papel da sociologia em um mundo digital de dados continuamente produzidos?
+# Qual o papel das Ciências Sociais em um mundo digital de dados continuamente produzidos?
 
 ```{r, out.width="80%"}
 knitr::include_graphics("https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=ecf05e475vot0dyqf7ocbyf43eh75omn2pjcymz4m65rzbf4&rid=giphy.gif&ct=g")
@@ -349,7 +385,7 @@ class: middle, center
 .pull-left[
 ### Agradecimentos especiais:
 <br>
-### Prof. Danielle Sanches pelo convite!
+### Profs. Fabio Gouveia e Daiane Rossi pelo convite!
 <br>
 ]
 .pull-right[
